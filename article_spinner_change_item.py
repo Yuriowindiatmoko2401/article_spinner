@@ -10,6 +10,7 @@ from __future__ import print_function
 from future.utils import iteritems
 
 import random
+import request
 
 # load template
 def load(filename):
